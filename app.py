@@ -1,2 +1,4 @@
 print('hello world')
-print ('first git push from local')
+
+x='learning git, it is a open source distributed version control system'
+print(x)
